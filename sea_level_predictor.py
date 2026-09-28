@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.stats import linregress
-# 10 min + 
+# 1 hour and 30 min (it is fast compared with other prjects)
 def draw_plot():
     # Read data from file
     df = pd.read_csv('epa-sea-level.csv')
